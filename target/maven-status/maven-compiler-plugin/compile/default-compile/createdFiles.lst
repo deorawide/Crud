@@ -1,0 +1,4 @@
+com\example\demo\DemoApplication.class
+com\example\services\Crudservice.class
+com\example\entiti\Persona.class
+com\example\controller\Crud.class
